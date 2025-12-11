@@ -1,0 +1,15 @@
+beautifulsoup4
+lxml
+numpy
+pandas
+pdfplumber
+pydantic
+pydantic-settings
+pydrive2
+pymysql
+PyMuPDF
+rich
+requests
+selenium
+SQLAlchemy
+tqdm
