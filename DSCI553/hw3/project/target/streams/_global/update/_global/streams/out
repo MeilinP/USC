@@ -1,7 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
-[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/Users/meilinpan/Desktop/hw3/project/"), "hw3-build")...[0m
-[0m[[0m[0minfo[0m] [0m[0mUpdating hw3-build[0m
-[0m[[0m[0minfo[0m] [0m[0mResolved hw3-build dependencies[0m
-[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of hw3-build[0m
-[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of hw3-build[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/Users/meilinpan/Desktop/hw3/project/"), "hw3-build")[0m
