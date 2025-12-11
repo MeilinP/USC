@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/Users/meilinpan/Desktop/hw2/hw2_project/project/"), "hw2_project-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating hw2_project-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved hw2_project-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of hw2_project-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of hw2_project-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/Users/meilinpan/Desktop/hw2/hw2_project/project/"), "hw2_project-build")[0m

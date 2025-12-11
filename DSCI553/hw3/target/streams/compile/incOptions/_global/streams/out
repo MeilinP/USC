@@ -1,0 +1,28 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/meilinpan/Desktop/hw3/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/meilinpan/Desktop/hw3/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_3$Triplet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_2$Triplet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_2$Triplet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_3$Triplet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_2$$typecreator22$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_2$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_2$$typecreator26$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_3$$typecreator22$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_3$$typecreator8$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_2$$typecreator8$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_3$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task2_3$$typecreator30$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/meilinpan/Desktop/hw3/target/scala-2.12/classes.bak[0m
